@@ -10,5 +10,4 @@ Description of the project:
  - Understanding linear algebra, contrained maximisation / lagrange multipliers and some statistics can really help with the interpretation of the pca's output. 
  - You may also use the biplot to understand better how individual features play a role in generating the principal components themselves. 
  - We run some evaluation measures such as cumulative sum of explained variance and Silhuoette score to identify the optimal number of clusters. 
- - We also provide a state and region breakdown of the different crimes and perform some exploratory analysis to understand the relationship between variables 
- - which is confirmed by the PCA.
+ - We also provide a state and region breakdown of the different crimes and perform some exploratory analysis to understand the relationship between variables which is confirmed by the PCA.
